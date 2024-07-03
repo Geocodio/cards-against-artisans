@@ -1,0 +1,51 @@
+\texttt{Parse error: syntax error, unexpected '::' (T\_PAAMAYIM\_NEKUDOTAYIM)}
+Facades
+``Working'' remotely
+Pretending to understand, but really having no clue
+My coworker's newer, better laptop
+Laravel adding another way to scaffold authentication
+Getting your desk lighting setup juuuust right
+Actually reading the docs
+Not reading the docs
+Zonda
+Rubber-duck debugging
+Wrapping my entire codebase in \\ \texttt{try \{ \\ \} catch (Throwable) \{ \\ // YOLO \\ \}}
+Overwriting all of my coworkers' changes in a merge conflict
+Solving all problems with Regular Expressions
+Accidentally running \texttt{git push --force} on the \texttt{main} branch
+A Spatie package
+Switching all of my databases to SQLite thanks to Aaron Francis
+Becoming a member of the Laravel Elite
+Jeffrey Way's voice soothing me to sleep
+Hallway track
+Bugs?!
+Whatever the latest Javascript framework is
+Starting another podcast
+Not paying for Sublime Text
+Forgetting to run \\ \texttt{npm run dev}
+Ice cold Coke Zero
+Not drinking coffee
+Waiting for my computer to update 
+SSH'ing in from my phone
+Taco Tuesday
+Excessively complicated coffee setups
+Laravel Artisans
+Someone's cat
+Buying another domain name
+Feeling superior because I use a \xcancel{standing} treadmill desk
+Entitled GitHub commenters
+YOLOing to production
+Uploading code changes via FTP
+Still using Laravel 4 in production
+Reading Hacker News instead of working
+Using Google Sheets as my database
+Refactoring using Clean Code 
+Buying programming books and not reading them
+Pimping my Zoom background
+Running \texttt{rm -rf /}
+Writing all of my code in a single PHP file
+My half-eaten burrito 
+My drawer full of dead startup t-shirts 
+Having dual monitors up in this bitch 
+Getting into fights on Twitter
+Deploying at 5pm on a Friday
