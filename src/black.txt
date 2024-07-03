@@ -32,3 +32,10 @@ My company is firing all of their developers and replacing them with \BLANK
 My greatest fear is \BLANK
 Why is the CTO stressed out?
 My last on-call was because of \BLANK
+Introducing Laravel 14. Now featuring \BLANK
+The secret ingredient in my Laravel code is \BLANK
+If I had a dollar for every time I saw \BLANK in my logs, I'd be rich.
+The reason my code review got rejected was \BLANK
+My codebase smells like \BLANK
+I was up all night because of \BLANK in my Laravel project.
+Laracon swag should include \BLANK

@@ -49,3 +49,16 @@ My drawer full of dead startup t-shirts
 Having dual monitors up in this bitch 
 Getting into fights on Twitter
 Deploying at 5pm on a Friday
+Writing tests that always pass
+Copy-pasting from Stack Overflow
+Taylor Otwell fan fiction
+The "works on my machine" defense
+Spaghetti code
+The Laravel Magic
+A plastic plant from IKEA
+The classic ``off-by-one'' error
+A commit message that just says ``WIP''
+Over-engineering a simple feature
+The ``temporary'' fix that's still there
+People who ``reply-all'' on a company-wide email
+Thinking your camera is off, but it's actually on
