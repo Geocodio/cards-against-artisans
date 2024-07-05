@@ -62,3 +62,5 @@ Over-engineering a simple feature
 The ``temporary'' fix that's still there
 People who ``reply-all'' on a company-wide email
 Thinking your camera is off, but it's actually on
+Realizing you commited the \texttt{.env} file to \texttt{git}
+Accidentally deleting the production database

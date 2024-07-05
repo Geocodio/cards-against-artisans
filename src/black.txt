@@ -39,3 +39,4 @@ The reason my code review got rejected was \BLANK
 My codebase smells like \BLANK
 I was up all night because of \BLANK in my Laravel project.
 Laracon swag should include \BLANK
+In my nightmares, Taylor Otwell appears and says \BLANK
