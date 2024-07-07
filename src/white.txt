@@ -64,3 +64,7 @@ People who ``reply-all'' on a company-wide email
 Thinking your camera is off, but it's actually on
 Realizing you commited the \texttt{.env} file to \texttt{git}
 Accidentally deleting the production database
+\texttt{dd()}
+Using \texttt{snake\_case} instead of \texttt{camelCase}
+Whatever happened to \texttt{PHP6}
+Forgetting the parameter order for \texttt{explode()}

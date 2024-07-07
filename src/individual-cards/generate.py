@@ -5,7 +5,7 @@ import os
 import subprocess
 
 def xelatex(basename):
-    subprocess.check_output(["xelatex", '\def\BLEEDAREA{}\input{' + basename + '.tex}'])
+    subprocess.check_output(["xelatex", "-shell-escape", '\def\BLEEDAREA{}\input{' + basename + '.tex}'])
     os.remove(basename + ".aux")
     os.remove(basename + ".log")
 
@@ -31,9 +31,8 @@ old_pngs = glob.glob(output_directory + "/*.png")
 for old_png in old_pngs:
     subprocess.run(["rm", old_png])
 
-j = 0
-
 for i in range(len(sources)):
+    j = 0
     print("Generating " + templates[i] + "_back.png")
     xelatex(templates[i] + "_back")
     pdftopng(templates[i] + "_back")
