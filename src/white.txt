@@ -68,3 +68,5 @@ Accidentally deleting the production database
 Using \texttt{snake\_case} instead of \texttt{camelCase}
 Whatever happened to \texttt{PHP6}
 Forgetting the parameter order for \texttt{explode()}
+A small town mayor who moonlights as a DJ
+Just being here because Jeffrey Way stopped doing CodeIgniter tutorials

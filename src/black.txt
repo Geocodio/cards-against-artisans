@@ -40,3 +40,4 @@ My codebase smells like \BLANK
 I was up all night because of \BLANK in my Laravel project.
 Laracon swag should include \BLANK
 In my nightmares, Taylor Otwell appears and says \BLANK
+Taylor Otwell’s retirement job will be \BLANK
