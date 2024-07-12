@@ -1,0 +1,35 @@
+\documentclass{standalone}
+
+\newif\ifwhitecard
+\whitecardfalse
+
+\input{../common}
+\input{singlecard}
+
+\begin{document}
+\begin{tikzpicture}[yscale=-1]
+
+\drawbackground
+\drawcardtitle
+\drawcardicon
+
+
+\node [cardfg,below right,text width=1.86in] at (0.12in, 1.05in) {
+		\smallfont{Brought to you by \textbf{geocod.io}
+		
+		\parskip=8pt
+		
+		An easy to use and affordable geocoding service that allows you to convert addresses into latitude and longitude and vice versa.
+
+		\parskip=8pt
+
+		You can also Census FIPS codes, time zones, Congressional districts, demographics and more to your results.
+		
+		\parskip=8pt
+
+		The game was inspired by our friends over at \textbf{Wafris} (check them out if you need a WAF).}
+
+};
+
+\end{tikzpicture}
+\end{document}

@@ -1,87 +1,87 @@
-Facades
-``Working'' remotely
-Pretending to understand, but really having no clue
-My coworker's newer, better laptop
-Laravel adding another way to scaffold authentication
-Getting your desk lighting setup juuuust right
-Actually reading the docs
-Not reading the docs
-Zonda
-Rubber-duck debugging
-Wrapping my entire codebase in \\ \texttt{try \{ \\ \} catch (Throwable) \{ \\ // YOLO \\ \}}
 Overwriting all of my coworkers' changes in a merge conflict
-Solving all problems with Regular Expressions
-Accidentally running \texttt{git push --force} on the \texttt{main} branch
-A Spatie package
-Switching all of my databases to SQLite thanks to Aaron Francis
-Jeffrey Way's voice soothing me to sleep
-Hallway track
-Bugs?!
-Whatever the latest Javascript framework is
-Starting another podcast
-Not paying for Sublime Text
-Forgetting to run \\ \texttt{npm run dev}
-4 cases of ice cold Coke Zero
-Not drinking coffee
-Waiting for my computer to update
-SSH'ing in from my phone
-Taco Tuesday
-Excessively complicated coffee setups
-Laravel Artisans
-Someone's cat
-Buying another domain name
-Feeling superior because I use a \xcancel{standing} treadmill desk
-Entitled GitHub commenters
-YOLOing to production
-Uploading code changes via FTP
-Still using Laravel 4 in production
-Reading Hacker News instead of working
-Using Google Sheets as my database
-Refactoring using Clean Code
-Buying programming books and not reading them
-Pimping my Zoom background
-Running \texttt{rm -rf /}
-Writing all of my code in a single PHP file
-My half-eaten burrito 
-My drawer full of dead startup t-shirts
+People who ``reply-all'' on a company-wide email
 Having dual monitors up in this bitch
-Getting into fights on Twitter
-Deploying at 5pm on a Friday
+Pretending to understand, but really having no clue
+Buying programming books and not reading them
+Wrapping my entire codebase in \\ \texttt{try \{ \\ \} catch (Throwable) \{ \\ // YOLO \\ \}}
 Writing tests that always pass
-Copy-pasting from Stack Overflow
-Taylor Otwell fan fiction
+Refactoring using Clean Code
+A README so good, it makes you cry
+\texttt{composer update \&\& pray}
+Writing all of my code in a single PHP file
+Laravel Shift: Because manual upgrades are so 2015
+Zonda
+Using \texttt{snake\_case} instead of \texttt{camelCase}
+Accidentally deleting the production database
+Accidentally leaking API keys in a public repo
+Rubber-duck debugging
+A small town mayor who moonlights as a DJ
+4 cases of ice cold Coke Zero
+Accidentally running \texttt{git push --force} on the \texttt{main} branch
+That one flaky test you keep ignoring
+Laravel adding another way to scaffold authentication
+The joy of finding the perfect GIF for your pull request
+TDD: Write the tests, watch them fail, cry, repeat
+Feeling superior because I use a \xcancel{standing} treadmill desk
+My half-eaten burrito 
 The ``works on my machine'' defense
 Spaghetti code
-The Laravel Magic
+Whatever happened to \texttt{PHP6}
+Starting another podcast
+Whatever the latest Javascript framework is
+Entitled GitHub commenters
+Actually reading the docs
+Realizing you commited the \texttt{.env} file to \texttt{git}
+SSH'ing in from my phone
+Forgetting to run \\ \texttt{npm run dev}
+Someone's cat
+Realizing your tests are testing your tests
+Over-engineering a simple feature
+The infinite wisdom of Stack Overflow's top 1\% users
+My coworker's newer, better laptop
+Realizing your ``quick fix'' broke 17 other features
+Spatie's new package for automatically writing apology emails
+Adam Wathan's playlist for maximum coding productivity
+Uploading code changes via FTP
+``Working'' remotely
+My drawer full of dead startup t-shirts
+\texttt{dd()}
+Pimping my Zoom background
+Laravel Artisans
 A plastic plant from IKEA
 The classic ``off-by-one'' error
+Solving all problems with Regular Expressions
+Bugs?!
+Not drinking coffee
+Reading Hacker News instead of working
+Taco Tuesday
+Copy-pasting from Stack Overflow
+The Laravel Magic
+Hallway track
+Getting into fights on Twitter
+Running \texttt{rm -rf /}
 A commit message that just says ``WIP''
-Over-engineering a simple feature
-The ``temporary'' fix that's still there
-People who ``reply-all'' on a company-wide email
-Thinking your camera is off, but it's actually on
-Realizing you commited the \texttt{.env} file to \texttt{git}
-Accidentally deleting the production database
-\texttt{dd()}
-Using \texttt{snake\_case} instead of \texttt{camelCase}
-Whatever happened to \texttt{PHP6}
-Forgetting the parameter order for \texttt{explode()}
-A small town mayor who moonlights as a DJ
-Just being here because Jeffrey Way stopped doing CodeIgniter tutorials
-Spatie's new package for automatically writing apology emails
-\texttt{composer update \&\& pray}
-Realizing your ``quick fix'' broke 17 other features
-A CI/CD pipeline smoother than a freshly waxed Lambo
-A README so good, it makes you cry
-The joy of finding the perfect GIF for your pull request
-Laravel Shift: Because manual upgrades are so 2015
-Adam Wathan's playlist for maximum coding productivity
-Freek's Spatie package for every possible use case
 PHPStorm autocomplete knowing what you want before you do
-Building a fort out of ElePHPant plushies to hide from deadlines
-Accidentally leaking API keys in a public repo
-The infinite wisdom of Stack Overflow's top 1\% users
+Still using Laravel 4 in production
+Getting your desk lighting setup juuuust right
+The ``temporary'' fix that's still there
+Freek's Spatie package for every possible use case
+Waiting for my computer to update
+Buying another domain name
+Just being here because Jeffrey Way stopped doing CodeIgniter tutorials
+A CI/CD pipeline smoother than a freshly waxed Lambo
+Facades
+Forgetting the parameter order for \texttt{explode()}
+A Spatie package
+Not paying for Sublime Text
+Using Google Sheets as my database
+Not reading the docs
+Switching all of my databases to SQLite thanks to Aaron Francis
+Taylor Otwell fan fiction
+Deploying at 5pm on a Friday
+Thinking your camera is off, but it's actually on
+YOLOing to production
 Pretending to understand Big O notation in interviews
-TDD: Write the tests, watch them fail, cry, repeat
-Realizing your tests are testing your tests
-That one flaky test you keep ignoring
+Building a fort out of ElePHPant plushies to hide from deadlines
+Excessively complicated coffee setups
+Jeffrey Way's voice soothing me to sleep

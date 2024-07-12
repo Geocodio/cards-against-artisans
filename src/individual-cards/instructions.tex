@@ -1,11 +1,15 @@
 \documentclass{standalone}
 \usepackage{enumitem}
+\usepackage{amssymb}
 
 \newif\ifwhitecard
-\whitecardtrue
+\whitecardfalse
 
 \input{../common}
 \input{singlecard}
+
+\setlength{\parskip}{\baselineskip}
+\setlength{\parindent}{8pt}
 
 \begin{document}
 \begin{tikzpicture}[yscale=-1]
@@ -16,19 +20,37 @@
 	\bookletfont{\textbf{How to play}}
 	\smallskip
 
-	\smallfont{First, gather \textbf{3-5 players}.}
-	\medskip
+	\smallfont{First, gather \textbf{3-5 players}.
+	
+	\parskip=6pt
 
-	\begin{itemize}[left=-1.5em]
-		\item{Shuffle black and white decks separately.}
-		\item{Each player draws \textbf{~5 white cards}.}
-		\item{Dealer reads a black card aloud.}
-		\item{Players choose their best white card to complete the phrase.}
-		\item{Dealer selects the funniest or most clever answer.}
-		\item{Winner keeps the black card and draws a new white card.}
-		\item{Rotate dealer clockwise each round.}
-		\item{The player with the most black cards at the end of the game wins.}
-	\end{itemize}
+	Each player draws \textbf{$\approx$5 white cards}.
+
+	\parskip=6pt
+
+	Dealer reads a black card aloud.
+
+	\parskip=6pt
+
+	Players choose their best white card to complete the phrase.
+
+	\parskip=6pt
+
+	Dealer selects the funniest or most clever answer.
+
+	\parskip=6pt
+
+	Winner keeps the black card and draws a new white card.
+
+	\parskip=6pt
+
+	Rotate dealer clockwise each round.
+
+	\parskip=6pt
+
+	The player with the most black cards at the end of the game wins.}
+
+	\parskip=10pt
 
 	\smallfont{\textbf{Have fun!}}
 
