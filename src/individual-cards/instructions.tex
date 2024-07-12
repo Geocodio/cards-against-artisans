@@ -1,0 +1,38 @@
+\documentclass{standalone}
+\usepackage{enumitem}
+
+\newif\ifwhitecard
+\whitecardtrue
+
+\input{../common}
+\input{singlecard}
+
+\begin{document}
+\begin{tikzpicture}[yscale=-1]
+
+\drawbackground
+\drawcardicon
+\node [cardfg,below right,text width=1.86in] at (0.12in, 0.12in) {
+	\bookletfont{\textbf{How to play}}
+	\smallskip
+
+	\smallfont{First, gather \textbf{3-5 players}.}
+	\medskip
+
+	\begin{itemize}[left=-1.5em]
+		\item{Shuffle black and white decks separately.}
+		\item{Each player draws \textbf{~5 white cards}.}
+		\item{Dealer reads a black card aloud.}
+		\item{Players choose their best white card to complete the phrase.}
+		\item{Dealer selects the funniest or most clever answer.}
+		\item{Winner keeps the black card and draws a new white card.}
+		\item{Rotate dealer clockwise each round.}
+		\item{The player with the most black cards at the end of the game wins.}
+	\end{itemize}
+
+	\smallfont{\textbf{Have fun!}}
+
+};
+
+\end{tikzpicture}
+\end{document}
