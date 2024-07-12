@@ -1,4 +1,3 @@
-\texttt{Parse error: syntax error, unexpected '::' (T\_PAAMAYIM\_NEKUDOTAYIM)}
 Facades
 ``Working'' remotely
 Pretending to understand, but really having no clue
@@ -15,7 +14,6 @@ Solving all problems with Regular Expressions
 Accidentally running \texttt{git push --force} on the \texttt{main} branch
 A Spatie package
 Switching all of my databases to SQLite thanks to Aaron Francis
-Becoming a member of the Laravel Elite
 Jeffrey Way's voice soothing me to sleep
 Hallway track
 Bugs?!
@@ -23,7 +21,7 @@ Whatever the latest Javascript framework is
 Starting another podcast
 Not paying for Sublime Text
 Forgetting to run \\ \texttt{npm run dev}
-Ice cold Coke Zero
+4 cases of ice cold Coke Zero
 Not drinking coffee
 Waiting for my computer to update 
 SSH'ing in from my phone
@@ -52,7 +50,7 @@ Deploying at 5pm on a Friday
 Writing tests that always pass
 Copy-pasting from Stack Overflow
 Taylor Otwell fan fiction
-The "works on my machine" defense
+The ``works on my machine'' defense
 Spaghetti code
 The Laravel Magic
 A plastic plant from IKEA

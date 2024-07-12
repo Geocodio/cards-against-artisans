@@ -8,7 +8,7 @@ What new Laravel service will Taylor Otwell announce at Laracon?
 I forgot to write tests because of \BLANK.
 My tests failed because of \BLANK.
 \BLANK. That's so Zonda.
-Pretty \BLANK Programmer.
+\textt{PHP}: Pretty \BLANK Programmer.
 Move over, ChatGPT. The hot new thing is \BLANK.
 A Laravel News post is on the Hacker News front page, and it's about \BLANK.
 Ian Landsman has strong opinions about \BLANK.
@@ -17,9 +17,7 @@ Real programmers don't use Cursor, they use \BLANK.
 Laravel Inc's latest hire's role is \BLANK.
 My favorite Laravel service is \BLANK.
 Why is my keyboard sticky?
-I spend more time \BLANK than actually coding.
 All true Laravel Artisans love \BLANK.
-I don't know anything about \BLANK.
 I got my tests to run faster because of \BLANK.
 The only thing worse than not being able to use Laravel is \BLANK.
 What's the best part about your job?
@@ -33,7 +31,6 @@ Why is the CTO stressed out?
 My last on-call was because of \BLANK.
 Introducing Laravel 14. Now featuring \BLANK.
 The secret ingredient in my Laravel code is \BLANK.
-If I had a dollar for every time I saw \BLANK in my logs, I'd be rich.
 The reason my code review got rejected was \BLANK.
 My codebase smells like \BLANK.
 I was up all night because of \BLANK in my Laravel project.
