@@ -70,3 +70,21 @@ Whatever happened to \texttt{PHP6}
 Forgetting the parameter order for \texttt{explode()}
 A small town mayor who moonlights as a DJ
 Just being here because Jeffrey Way stopped doing CodeIgniter tutorials
+Spatie's new package for automatically writing apology emails
+\texttt{composer update \&\& pray}
+Realizing your ``quick fix'' broke 17 other features
+A CI/CD pipeline smoother than a freshly waxed Lambo
+A README so good, it makes you cry
+The joy of finding the perfect GIF for your pull request
+Laravel Shift: Because manual upgrades are so 2015
+Adam Wathan's playlist for maximum coding productivity
+Freek's Spatie package for every possible use case
+PHPStorm autocomplete knowing what you want before you do
+Building a fort out of ElePHPant plushies to hide from deadlines
+Accidentally leaking API keys in a public repo
+The infinite wisdom of Stack Overflow's top 1\% users
+Pretending to understand Big O notation in interviews
+TDD: Write the tests, watch them fail, cry, repeat
+Realizing your tests are testing your tests
+That one flaky test you keep ignoring
+The proof-of-concept that somehow ended up in production

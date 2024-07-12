@@ -10,7 +10,7 @@ def xelatex(basename):
     os.remove(basename + ".log")
 
 def pdftopng(basename):
-    subprocess.check_output(["convert", "-density", "300", "-geometry", "732x1101", basename + ".pdf", basename + ".png"])
+    subprocess.check_output(["magick", "-density", "400", basename + ".pdf", basename + ".png"])
 
 black_prefix = os.environ["BLACK"] if "BLACK" in os.environ else "black"
 white_prefix = os.environ["WHITE"] if "WHITE" in os.environ else "white"
