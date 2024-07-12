@@ -23,7 +23,7 @@ Not paying for Sublime Text
 Forgetting to run \\ \texttt{npm run dev}
 4 cases of ice cold Coke Zero
 Not drinking coffee
-Waiting for my computer to update 
+Waiting for my computer to update
 SSH'ing in from my phone
 Taco Tuesday
 Excessively complicated coffee setups
@@ -37,14 +37,14 @@ Uploading code changes via FTP
 Still using Laravel 4 in production
 Reading Hacker News instead of working
 Using Google Sheets as my database
-Refactoring using Clean Code 
+Refactoring using Clean Code
 Buying programming books and not reading them
 Pimping my Zoom background
 Running \texttt{rm -rf /}
 Writing all of my code in a single PHP file
 My half-eaten burrito 
-My drawer full of dead startup t-shirts 
-Having dual monitors up in this bitch 
+My drawer full of dead startup t-shirts
+Having dual monitors up in this bitch
 Getting into fights on Twitter
 Deploying at 5pm on a Friday
 Writing tests that always pass
@@ -85,4 +85,3 @@ Pretending to understand Big O notation in interviews
 TDD: Write the tests, watch them fail, cry, repeat
 Realizing your tests are testing your tests
 That one flaky test you keep ignoring
-The proof-of-concept that somehow ended up in production
