@@ -3,7 +3,7 @@ People who ``reply-all'' on a company-wide email
 Having dual monitors up in this bitch
 Pretending to understand, but really having no clue
 Buying programming books and not reading them
-Wrapping my entire codebase in \\ \texttt{try \{ \\ \} catch (Throwable) \{ \\ // YOLO \\ \}}
+Wrapping my entire codebase in: \\~\\ \texttt{try \{ \\~\\ \} catch (Throwable) \{ \\ \hspace{1em} // YOLO \\ \}}
 Writing tests that always pass
 Refactoring using Clean Code
 A README so good, it makes you cry
