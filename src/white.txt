@@ -85,4 +85,4 @@ Pretending to understand Big O notation in interviews
 Building a fort out of ElePHPant plushies to hide from deadlines
 Excessively complicated coffee setups
 Jeffrey Way's voice soothing me to sleep
-labeling issues as ``wontfix''
+Labeling issues as ``wontfix''
