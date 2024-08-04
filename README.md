@@ -33,4 +33,6 @@ $ make instructions
 
 ## Changing logo on cards
 
-Replace [src/individual-cards/logo.svg](src/individual-cards/logo.svg) with a logo of your choice.
+Replace the inline SVG file in [src/common.tex](src/common.tex) with a logo of your choice.
+
+Make sure to provide both a black version (for white cards) and a white version (for black cards).
