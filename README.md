@@ -21,7 +21,16 @@ $ make instructions
 
 ## Updating cards
 
-Question cards: [src/black.txt](src/black.txt)
-Answer cards: [src/white.txt](src/white.txt)
+* Question cards: [src/black.txt](src/black.txt)
+* Answer cards: [src/white.txt](src/white.txt)
 
 > One card per line, LaTeX syntax accepted
+
+## Updating instructions card
+
+* Front: [src/individual-cards/instructions.tex](src/individual-cards/instructions.tex)
+* Back: [src/individual-cards/instructions_back.tex](src/individual-cards/instructions_back.tex)
+
+## Changing logo on cards
+
+Replace [src/individual-cards/logo.svg](src/individual-cards/logo.svg) with a logo of your choice.
